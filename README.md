@@ -1,7 +1,7 @@
 # Shahriar Azim Aksad — Portfolio
  
 > Personal portfolio website built from scratch. Dark-themed, single-file, no frameworks.
- 
+  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-white?style=flat-square&logo=github)](https://aksadio.github.io/Aksad)
 [![HTML](https://img.shields.io/badge/HTML-Single%20File-orange?style=flat-square)](index.html)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
