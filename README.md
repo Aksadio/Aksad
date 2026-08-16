@@ -16,21 +16,6 @@ Built to reflect a systems-thinking aesthetic: dark, minimal, precise.
  
 ---
  
-## Features
- 
-- **Animated hero** with particle canvas background and mouse-reactive lines
-- **Filterable skills grid** — filter by AI & Automation, Programming, or Tools
-- **Project showcase** — filterable cards with GitHub + live demo links
-- **Certifications wall** — credential cards with external verification links
-- **Timeline** — education, community involvement, and certifications
-- **Experience section** — role cards with tech stacks and impact bullets
-- **Contact form** — mailto-based submission with a success state UI
-- **Command palette** — keyboard-accessible quick navigation (`⌘K`)
-- **Theme toggle** — dark/light mode switch
-- **Responsive layout** — mobile drawer nav, fluid typography
-- **Scroll-aware navbar** — pill nav that reacts to page position
-- **Smooth scroll + fade-up animations** — IntersectionObserver-driven
----
  
 ## Tech Stack
  
@@ -123,8 +108,6 @@ Edit those arrays to update content — no need to touch the HTML or CSS.
 | Platform | Link |
 |---|---|
 | Email | aksad.dev.io@gmail.com |
-| GitHub | [github.com/Aksadio](https://github.com/Aksadio) |
-| LinkedIn | [linkedin.com/in/shahariar-azim-aksad](https://www.linkedin.com/in/shahariar-azim-aksad-69aaaa3b8/) |
 | Kaggle | [kaggle.com/shahariarazimaksad](https://www.kaggle.com/shahariarazimaksad) |
  
 ---
