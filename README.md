@@ -102,15 +102,7 @@ Edit those arrays to update content — no need to touch the HTML or CSS.
 | QR | Python | QR code generator |
  
 ---
- 
-## Contact
- 
-| Platform | Link |
-|---|---|
-| Email | aksad.dev.io@gmail.com |
-| Kaggle | [kaggle.com/shahariarazimaksad](https://www.kaggle.com/shahariarazimaksad) |
- 
----
+
  
 ## License
  
