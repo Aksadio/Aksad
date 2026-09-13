@@ -33,21 +33,6 @@ Zero dependencies. Zero build steps.
  
 ---
  
-## Sections
- 
-| # | Section | Description |
-|---|---|---|
-| 01 | Hero | Name, domain pills, animated background, scroll indicator |
-| 02 | About | Bio, portrait, stats (6+ months, 20+ AI projects, 10+ personal projects), highlight cards |
-| 03 | Skills | 14 skills across AI & Automation, Programming, and Tools — filterable with animated bars |
-| 04 | Projects | 11 GitHub projects with tech tags and live links |
-| 05 | Certificates | Google (Gemini), AWS, Kaggle, GDG credentials |
-| 06 | Timeline | CS50x, FutureLearn, GDG Dhaka, Kaggle, AWS, Google Ads |
-| 07 | Experience | 3 roles — AI Workflow Dev, Python Automation, Web Developer |
-| 08 | Contact | Form with mailto submission + social links |
- 
----
- 
 ## Getting Started
  
 No installation needed.
